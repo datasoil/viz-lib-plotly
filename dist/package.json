@@ -4,7 +4,7 @@
     "private": false,
     "description": "Plotly custom bundle with scatters, pie, bar and heatmap.",
     "main": "index.js",
-    "dependencies": {
+    "devDependencies": {
         "@types/plotly.js": "^2.29.4"
     },
     "types": "index.d.ts",
