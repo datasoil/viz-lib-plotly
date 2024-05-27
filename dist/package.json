@@ -7,6 +7,5 @@
     "devDependencies": {
         "@types/plotly.js": "^2.29.4"
     },
-    "types": "index.d.ts",
     "author": "Gianluca Bresolin"
 }
